@@ -10,7 +10,7 @@ import Wallet from "./Wallet";
 
 const menu = [
     {
-        title: "My profile",
+        title: "My Vault",
         url: "/profile",
     },
     {
