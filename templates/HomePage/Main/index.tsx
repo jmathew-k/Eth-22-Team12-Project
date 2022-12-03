@@ -7,14 +7,14 @@ import Item from "./Item";
 
 const list = [
     {
-        title: "Fractionalized Public Vaults",
+        title: "Fractionalized Assets Vaults",
         collection: "Cool Cats",
-        price: "10.00 ETH",
+        price: "7.20 ETH",
         reserve: "2.38 ETH",
         image: "/images/coolcats.jpg",
     },
     {
-        title: "Fractionalized Public Vaults",
+        title: "Fractionalized Assets Vaults",
         collection: "Crypto Punks",
         price: "24.33 ETH",
         reserve: "5.64 ETH",
@@ -22,7 +22,7 @@ const list = [
         color: "#BCE6EC",
     },
     {
-        title: "Fractionalized Public Vaults",
+        title: "Fractionalized Assets Vaults",
         collection: "BAYC",
         price: "5.4 ETH",
         reserve: "1.45 ETH",
